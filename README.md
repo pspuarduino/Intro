@@ -1,5 +1,5 @@
 # Опрос
-1) https://docs.google.com/forms/d/1T34MMqV9rWoGzOTXmVoZ8Fzx0NQcWoC7XeOdaa0d744/edit?usp=sharing
+1) https://docs.google.com/forms/d/e/1FAIpQLSdkq68Y9d1z2zsEHfZWE6ohFT2N9beN33cF7lwHO3e818Y0mw/viewform
 
 2) https://docs.google.com/forms/d/e/1FAIpQLSeCm3UY_VxJ2rci02WIph5mqQvch8t1Ll73oJeek1ibrobhMA/viewform
 
